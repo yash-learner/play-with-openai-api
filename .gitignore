@@ -1,2 +1,5 @@
 # Ignore dotenv files.
 .env*
+
+# Ignore node modules any where in the project
+**/node_modules

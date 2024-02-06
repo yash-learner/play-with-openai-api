@@ -8,3 +8,10 @@ gem 'faraday-multipart'
 gem 'dotenv'
 gem 'pry'
 gem 'ruby-openai'
+
+
+# Requirements for @prettier/plugin-ruby - use latest
+gem "prettier_print"
+gem "syntax_tree"
+gem "syntax_tree-haml"
+gem "syntax_tree-rbs"
