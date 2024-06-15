@@ -3,3 +3,5 @@
 
 # Ignore node modules any where in the project
 **/node_modules
+
+*.ann
